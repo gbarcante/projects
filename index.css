@@ -1,0 +1,29 @@
+
+/*Home Page*/
+div.main_imageslide_big img{
+	height:100%;
+	width:auto;
+}
+div.main_imageslide_big{
+	padding:0;margin:0;
+	min-height:40rem;
+	overflow:hidden;
+	background-color:#404040;
+}
+
+div#content{
+	background-color:#404040;
+}
+
+span.float_button_bottom{
+	display:inline-block;
+	padding:2rem;
+	text-align:center;
+	background-color:#007867;
+	box-shadow:3px 3px 10px black;
+	position:absolute;
+	right:0;
+	bottom:15rem;
+	font-size:2rem;
+	color:white;
+}

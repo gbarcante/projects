@@ -1,0 +1,44 @@
+
+div.page_head_big p{
+	padding:0.5rem;
+}
+div.page_head_big{
+	background-color:none;
+	background-image:url("../content/contact.jpg");
+	background-size:100% auto;
+	background-position:10%;
+	
+}
+
+div.contact_form{
+	text-align:center;
+}
+
+form{
+	width:40rem;
+	display:inline-block;
+}
+
+p input[type="text"]{
+	width:100%;
+	padding:0.3rem;
+	border:solid 0.2rem #15B19C;
+}
+
+p textarea{
+	width:100%;
+	height:15rem;
+	border:solid 0.2rem #15B19C;
+}
+
+p input[type="submit"]{
+	padding:0.5rem;
+	background-color:#15B19C;
+	border:none;
+	color:white;
+}
+
+p.submit{
+	text-align:right;
+	color:white;
+}
